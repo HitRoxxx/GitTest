@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Toast.makeText(this, "AppzCloud", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "Hey", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Hello , Hi ", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Branch", Toast.LENGTH_SHORT).show();
     }
 }
